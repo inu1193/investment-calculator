@@ -23,11 +23,11 @@ The calculator will then display the year-by-year breakdown of your investment, 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/investment-calculator.git
+    git clone https://github.com/inu1193/react-investment-calculator.git
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd investment-calculator
+    cd react-investment-calculator
     ```
 3. **Install dependencies**:
     ```bash
@@ -35,9 +35,9 @@ The calculator will then display the year-by-year breakdown of your investment, 
     ```
 4. **Start the development server**:
     ```bash
-    npm start
+    npm run dev
     ```
-   The app will be available at `http://localhost:3000`.
+   The app will be available at `http://localhost:5173/`.
 
 ## Technologies Used
 
