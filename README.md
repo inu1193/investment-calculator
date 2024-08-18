@@ -1,4 +1,4 @@
-Here’s a sample README file for your React investment calculator project:
+
 
 ---
 
