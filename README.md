@@ -60,5 +60,3 @@ Contributions are welcome! Feel free to open a pull request with any improvement
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-Replace `{website}` with the actual URL of your live site, and adjust any details to better fit your specific project.
